@@ -1,13 +1,18 @@
+Sure! Here’s an updated version that includes how others can use your notification library:
+
 # Gorilla Game Info
 
 ## Overview
-Gorilla Game Info is a mod designed to provide real-time notifications within Gorilla Tag. Stay updated with essential information about player activity and key game events!
+Gorilla Game Info is a mod designed to elevate your gaming experience by providing real-time notifications within Gorilla Tag. Stay updated with essential information about player activity and key game events!
 
 ## Features
 - **Player Notifications**: Receive alerts when players join or leave your room.
 - **Tagging Updates**: Discover who got tagged, how many players you’ve tagged, and your overall tagging stats.
 - **Survival Tracking**: Monitor how long you’ve survived before getting tagged.
 - **Live Player Count**: Keep track of how many players are still alive in the game.
+
+## Custom Notification Library
+This mod is built using my custom notification library, which is designed for seamless integration and real-time alerts. You can use this library in your own projects to create similar notification systems. [https://github.com/Novuh-Kaen/PC-Notification-Lib]
 
 ## Installation
 To install the mod, follow these steps:
