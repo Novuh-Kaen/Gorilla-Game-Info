@@ -11,7 +11,7 @@ Gorilla Game Info is a mod designed to enhance your gaming experience by providi
 
 ## Installation
 When you download the mod you must put the .dll in your plugins folder
-[Steam] "C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins"
-[Oculus] "C:\Program Files\Oculus\Software\Software\gorilla-tag\Gorilla Tag_Data\Plugins"
+- **Steam Directory**: "C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins"
+- **Oculus Directory**: "C:\Program Files\Oculus\Software\Software\gorilla-tag\Gorilla Tag_Data\Plugins"
 
 ---
