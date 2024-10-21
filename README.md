@@ -11,8 +11,10 @@ Gorilla Game Info is a mod designed to elevate your gaming experience by providi
 - **Survival Tracking**: Monitor how long you’ve survived before getting tagged.
 - **Live Player Count**: Keep track of how many players are still alive in the game.
 
-## Custom Notification Library
-This mod is built using my custom notification library, which is designed for seamless integration and real-time alerts. You can use this library in your own projects to create similar notification systems. [https://github.com/Novuh-Kaen/PC-Notification-Lib]
+## PC Notification Library
+This mod is built using my custom notification library. You can use this library in your own projects to create similar notification systems. Check it out here: [PC Notification Lib](https://github.com/Novuh-Kaen/PC-Notification-Lib).
+
+Let me know if you need any further adjustments!
 
 ## Installation
 To install the mod, follow these steps:
