@@ -1,5 +1,3 @@
-Sure! Here’s an updated version that includes how others can use your notification library:
-
 # Gorilla Game Info
 
 ## Overview
